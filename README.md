@@ -1,6 +1,5 @@
-### Payment Integration Website
+### Donation Payment Integration Website
 This is a donation website in which we have integrated payment gateway.
-This is mainly created to integrate it with our KOLA website.
 
 ### Use Of Project
 This project can be used in any e-commerce website.

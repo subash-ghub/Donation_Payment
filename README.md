@@ -14,11 +14,6 @@ JAVASCRIPT
 ---
 
 - Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
 - Go to the directory
 - Run the index.html file
 
@@ -26,7 +21,8 @@ git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
 
 
 ### Screenshots
-![1](https://user-images.githubusercontent.com/63583646/124602004-0ec97600-de86-11eb-809b-51e0d83a2be6.png)
+![WhatsApp Image 2024-01-27 at 11 41 21_98fed211](https://github.com/subash-ghub/Payment_Integration/assets/104593776/b33b22ec-934d-4bbd-b3b2-7c8a33c8a9a6)
+
 
 
 
